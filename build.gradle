@@ -21,4 +21,4 @@ run {
     args = ["server", "configuration/dropwizard-template.yml"]
 }
 
-mainClassName = 'com.dropwizardTemplate.DropwizardTemplateApplication'
+mainClassName = 'uk.gov.templates.dropwizard.gradle.DropwizardTemplateApplication'
